@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.navbar h2{
+	color: #fff;
+}
+
+header {
+	padding: 156px 0 100px;
+}
+
+section {
+	padding: 150px 0;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+@media (max-width: 576px){
+
+.navbar h2{
+	font-size: 18px;
+}
+
+}
